@@ -1,0 +1,508 @@
+class,order,family,genus,species,complex,CH_list_genus,CH_list_species
+Insecta,Ephemeroptera,Ameletidae,Ameletus,Ameletus inopinatus,FALSE,Ameletus,Ameletus inopinatus
+Insecta,Ephemeroptera,Ameletidae,Metreletus,Metreletus balcanicus,FALSE,Metreletus,Metreletus balcanicus
+Insecta,Ephemeroptera,Baetidae,Acentrella,Acentrella sinaica,FALSE,Acentrella,Acentrella sinaica
+Insecta,Ephemeroptera,Baetidae,Alainites,Alainites muticus,FALSE,Alainites,Alainites muticus
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis alpinus,FALSE,Baetis,Baetis alpinus
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis buceratus,FALSE,Baetis,Baetis buceratus
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis fuscatus,TRUE,Baetis,Baetis fuscatus complex
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis scambus,TRUE,Baetis,Baetis fuscatus complex
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis liebenauae,FALSE,Baetis,Baetis liebenauae
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis lutheri,TRUE,Baetis,Baetis lutheri complex
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis vardarensis,TRUE,Baetis,Baetis lutheri complex
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis melanonyx,FALSE,Baetis,Baetis melanonyx
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis nubecularis,FALSE,Baetis,Baetis nubecularis
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis pentaphlebodes,FALSE,Baetis,Baetis pentaphlebodes
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis rhodani,FALSE,Baetis,Baetis rhodani
+Insecta,Ephemeroptera,Baetidae,Baetis,Baetis vernus,FALSE,Baetis,Baetis vernus
+Insecta,Ephemeroptera,Baetidae,Centroptilum,Centroptilum luteolum,FALSE,Centroptilum,Centroptilum luteolum
+Insecta,Ephemeroptera,Baetidae,Cloeon,Cloeon dipterum,FALSE,Cloeon,Cloeon dipterum
+Insecta,Ephemeroptera,Baetidae,Cloeon,Cloeon simile,FALSE,Cloeon,Cloeon simile
+Insecta,Ephemeroptera,Baetidae,Nigrobaetis,Nigrobaetis niger,FALSE,Nigrobaetis,Nigrobaetis niger
+Insecta,Ephemeroptera,Baetidae,Procloeon,Procloeon bifidum,FALSE,Procloeon,Procloeon bifidum
+Insecta,Ephemeroptera,Baetidae,Procloeon,Procloeon pennulatum,FALSE,Procloeon,Procloeon pennulatum
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis beskidensis,FALSE,Caenis,Caenis beskidensis
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis horaria,FALSE,Caenis,Caenis horaria
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis lactea,FALSE,Caenis,Caenis lactea
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis luctuosa,FALSE,Caenis,Caenis luctuosa
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis macrura,FALSE,Caenis,Caenis macrura
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis pusilla,FALSE,Caenis,Caenis pusilla
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis rivulorum,FALSE,Caenis,Caenis rivulorum
+Insecta,Ephemeroptera,Caenidae,Caenis,Caenis robusta,FALSE,Caenis,Caenis robusta
+Insecta,Ephemeroptera,Ephemerellidae,Ephemerella,Ephemerella mucronata,FALSE,Ephemerella,Ephemerella mucronata
+Insecta,Ephemeroptera,Ephemerellidae,Ephemerella,Ephemerella notata,FALSE,Ephemerella,Ephemerella notata
+Insecta,Ephemeroptera,Ephemerellidae,Serratella,Serratella ignita,FALSE,Serratella,Serratella ignita
+Insecta,Ephemeroptera,Ephemerellidae,Torleya,Torleya major,FALSE,Torleya,Torleya major
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,Ephemera danica,FALSE,Ephemera,Ephemera danica
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,Ephemera glaucops,FALSE,Ephemera,Ephemera glaucops
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,Ephemera lineata,FALSE,Ephemera,Ephemera lineata
+Insecta,Ephemeroptera,Ephemeridae,Ephemera,Ephemera vulgata,FALSE,Ephemera,Ephemera vulgata
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus helveticus,TRUE,Ecdyonurus,Ecdyonurus helveticus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus zelleri,TRUE,Ecdyonurus,Ecdyonurus helveticus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus picteti,TRUE,Ecdyonurus,Ecdyonurus helveticus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus parahelveticus,TRUE,Ecdyonurus,Ecdyonurus helveticus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus alpinus,TRUE,Ecdyonurus,Ecdyonurus helveticus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus venosus,TRUE,Ecdyonurus,Ecdyonurus venosus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus torrentis,TRUE,Ecdyonurus,Ecdyonurus venosus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus dispar,TRUE,Ecdyonurus,Ecdyonurus venosus complex
+Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,Ecdyonurus insignis,TRUE,Ecdyonurus,Ecdyonurus venosus complex
+Insecta,Ephemeroptera,Heptageniidae,Electrogena,Electrogena lateralis,FALSE,Electrogena,Electrogena lateralis
+Insecta,Ephemeroptera,Heptageniidae,Electrogena,Electrogena ujhelyii,FALSE,Electrogena,Electrogena ujhelyii
+Insecta,Ephemeroptera,Heptageniidae,Epeorus,Epeorus alpicola,FALSE,Epeorus,Epeorus alpicola
+Insecta,Ephemeroptera,Heptageniidae,Epeorus,Epeorus assimilis,FALSE,Epeorus,Epeorus assimilis
+Insecta,Ephemeroptera,Heptageniidae,Heptagenia,Heptagenia coerulans,FALSE,Heptagenia,Heptagenia coerulans
+Insecta,Ephemeroptera,Heptageniidae,Heptagenia,Heptagenia longicauda,FALSE,Heptagenia,Heptagenia longicauda
+Insecta,Ephemeroptera,Heptageniidae,Heptagenia,Heptagenia sulphurea,FALSE,Heptagenia,Heptagenia sulphurea
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena allobrogica,FALSE,Rhithrogena,Rhithrogena allobrogica
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena alpestris,FALSE,Rhithrogena,Rhithrogena alpestris
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena beskidensis,TRUE,Rhithrogena,Rhithrogena diaphana complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena savoiensis,TRUE,Rhithrogena,Rhithrogena diaphana complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena hybrida,TRUE,Rhithrogena,Rhithrogena hybrida complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena puthzi,TRUE,Rhithrogena,Rhithrogena hybrida complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena degrangei,TRUE,Rhithrogena,Rhithrogena hybrida complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena grischuna,TRUE,Rhithrogena,Rhithrogena hybrida complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena gratianopolitana,TRUE,Rhithrogena,Rhithrogena hybrida complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena landai,FALSE,Rhithrogena,Rhithrogena landai
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena loyolaea,FALSE,Rhithrogena,Rhithrogena loyolaea
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena nivata,FALSE,Rhithrogena,Rhithrogena nivata
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena semicolorata,TRUE,Rhithrogena,Rhithrogena semicolorata complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena dorieri,TRUE,Rhithrogena,Rhithrogena semicolorata complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena carpatoalpina,TRUE,Rhithrogena,Rhithrogena semicolorata complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena picteti,TRUE,Rhithrogena,Rhithrogena semicolorata complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena puytoraci,TRUE,Rhithrogena,Rhithrogena semicolorata complex
+Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,Rhithrogena germanica,TRUE,Rhithrogena,Rhithrogena semicolorata complex
+Insecta,Ephemeroptera,Leptophlebiidae,Choroterpes,Choroterpes picteti,FALSE,Choroterpes,Choroterpes picteti
+Insecta,Ephemeroptera,Leptophlebiidae,Habroleptoides,Habroleptoides auberti,FALSE,Habroleptoides,Habroleptoides auberti
+Insecta,Ephemeroptera,Leptophlebiidae,Habroleptoides,Habroleptoides confusa,FALSE,Habroleptoides,Habroleptoides confusa
+Insecta,Ephemeroptera,Leptophlebiidae,Habrophlebia,Habrophlebia eldae,FALSE,Habrophlebia,Habrophlebia eldae
+Insecta,Ephemeroptera,Leptophlebiidae,Habrophlebia,Habrophlebia fusca,FALSE,Habrophlebia,Habrophlebia fusca
+Insecta,Ephemeroptera,Leptophlebiidae,Habrophlebia,Habrophlebia lauta,FALSE,Habrophlebia,Habrophlebia lauta
+Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebia,Leptophlebia marginata,FALSE,Leptophlebia,Leptophlebia marginata
+Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebia,Leptophlebia vespertina,FALSE,Leptophlebia,Leptophlebia vespertina
+Insecta,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,Paraleptophlebia cincta,FALSE,Paraleptophlebia,Paraleptophlebia cincta
+Insecta,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,Paraleptophlebia submarginata,FALSE,Paraleptophlebia,Paraleptophlebia submarginata
+Insecta,Ephemeroptera,Oligoneuriidae,Oligoneuriella,Oligoneuriella rhenana,FALSE,Oligoneuriella,Oligoneuriella rhenana
+Insecta,Ephemeroptera,Polymitarcyidae,Ephoron,Ephoron virgo,FALSE,Ephoron,Ephoron virgo
+Insecta,Ephemeroptera,Potamanthidae,Potamanthus,Potamanthus luteus,FALSE,Potamanthus,Potamanthus luteus
+Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,Siphlonurus aestivalis,FALSE,Siphlonurus,Siphlonurus aestivalis
+Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,Siphlonurus lacustris,FALSE,Siphlonurus,Siphlonurus lacustris
+Insecta,Plecoptera,Capniidae,Capnia,Capnia bifrons,FALSE,Capnia,Capnia bifrons
+Insecta,Plecoptera,Capniidae,Capnia,Capnia nigra,FALSE,Capnia,Capnia nigra
+Insecta,Plecoptera,Capniidae,Capnia,Capnia vidua,FALSE,Capnia,Capnia vidua
+Insecta,Plecoptera,Capniidae,Capnioneura,Capnioneura nemuroides,FALSE,Capnioneura,Capnioneura nemuroides
+Insecta,Plecoptera,Chloroperlidae,Chloroperla,Chloroperla susemicheli,FALSE,Chloroperla,Chloroperla susemicheli
+Insecta,Plecoptera,Chloroperlidae,Chloroperla,Chloroperla tripunctata,FALSE,Chloroperla,Chloroperla tripunctata
+Insecta,Plecoptera,Chloroperlidae,Siphonoperla,Siphonoperla montana,FALSE,Siphonoperla,Siphonoperla montana
+Insecta,Plecoptera,Chloroperlidae,Siphonoperla,Siphonoperla torrentium,FALSE,Siphonoperla,Siphonoperla torrentium
+Insecta,Plecoptera,Chloroperlidae,Xanthoperla,Xanthoperla apicalis,FALSE,Xanthoperla,Xanthoperla apicalis
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra albida,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra alpina,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra ameliae,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra armata,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra aurita,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra autumnalis,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra cingulatus,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra dolasilla,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra elisabethae,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra festai,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra fusca,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra handlirschi,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra helvetica,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra hexacantha,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra hippopus,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra inermis,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra insubrica,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra leptogaster,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra meridionalis,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra mortoni,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra moselyi,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra niveola,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra prima,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra pseudorosinae,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra pseudosignifera,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra rauscheri,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra ravizzai,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra rosinae,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra sesvenna,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra subalpina,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra teriolensis,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra vinconi,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra zwicki,TRUE,Leuctra,Leuctra complex
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra braueri,FALSE,Leuctra,Leuctra braueri
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra geniculata,FALSE,Leuctra,Leuctra geniculata
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra major,FALSE,Leuctra,Leuctra major
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra nigra,FALSE,Leuctra,Leuctra nigra
+Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra schmidi,FALSE,Leuctra,Leuctra schmidi
+Insecta,Plecoptera,Nemouridae,Amphinemura,Amphinemura standfussi,FALSE,Amphinemura,Amphinemura standfussi
+Insecta,Plecoptera,Nemouridae,Amphinemura,Amphinemura sulcicollis,TRUE,Amphinemura,Amphinemura sulcicollis complex
+Insecta,Plecoptera,Nemouridae,Amphinemura,Amphinemura triangularis,TRUE,Amphinemura,Amphinemura sulcicollis complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura avicularis,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura cambrica,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura cinerea,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura dubitans,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura flexuosa,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura marginata,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura obtusa,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura palliventris,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura pesarinii,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura sciurus,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura sinuata,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura uncinata,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura undulata,TRUE,Nemoura,Nemoura complex
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura minima,FALSE,Nemoura,Nemoura minima
+Insecta,Plecoptera,Nemouridae,Nemoura,Nemoura mortoni,FALSE,Nemoura,Nemoura mortoni
+Insecta,Plecoptera,Nemouridae,Nemurella,Nemurella pictetii,FALSE,Nemurella,Nemurella pictetii
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura algovia,TRUE,Protonemura,Protonemura algovia complex
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura nimborella,TRUE,Protonemura,Protonemura algovia complex
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura auberti,TRUE,Protonemura,Protonemura auberti complex
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura risi,TRUE,Protonemura,Protonemura auberti complex
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura brevistyla,FALSE,Protonemura,Protonemura brevistyla
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura intricata,FALSE,Protonemura,Protonemura intricata
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura lateralis,FALSE,Protonemura,Protonemura lateralis
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura meyeri,FALSE,Protonemura,Protonemura meyeri
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura nimborum,FALSE,Protonemura,Protonemura nimborum
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura nitida,FALSE,Protonemura,Protonemura nitida
+Insecta,Plecoptera,Nemouridae,Protonemura,Protonemura praecox,FALSE,Protonemura,Protonemura praecox
+Insecta,Plecoptera,Perlidae,Dinocras,Dinocras cephalotes,FALSE,Dinocras,Dinocras cephalotes
+Insecta,Plecoptera,Perlidae,Dinocras,Dinocras ferreri,FALSE,Dinocras,Dinocras ferreri
+Insecta,Plecoptera,Perlidae,Dinocras,Dinocras megacephala,FALSE,Dinocras,Dinocras megacephala
+Insecta,Plecoptera,Perlidae,Perla,Perla abdominalis,FALSE,Perla,Perla abdominalis
+Insecta,Plecoptera,Perlidae,Perla,Perla grandis,FALSE,Perla,Perla grandis
+Insecta,Plecoptera,Perlidae,Perla,Perla marginata,FALSE,Perla,Perla marginata
+Insecta,Plecoptera,Perlodidae,Besdolus,Besdolus imhoffi,FALSE,Besdolus,Besdolus imhoffi
+Insecta,Plecoptera,Perlodidae,Besdolus,Besdolus ventralis,FALSE,Besdolus,Besdolus ventralis
+Insecta,Plecoptera,Perlodidae,Dictyogenus,Dictyogenus alpinum,TRUE,Dictyogenus,Dictyogenus complex
+Insecta,Plecoptera,Perlodidae,Dictyogenus,Dictyogenus fontium,TRUE,Dictyogenus,Dictyogenus complex
+Insecta,Plecoptera,Perlodidae,Isogenus,Isogenus nubecula,FALSE,Isogenus,Isogenus nubecula
+Insecta,Plecoptera,Perlodidae,Isoperla,Isoperla carbonaria,TRUE,Isoperla,Isoperla complex
+Insecta,Plecoptera,Perlodidae,Isoperla,Isoperla grammatica,TRUE,Isoperla,Isoperla complex
+Insecta,Plecoptera,Perlodidae,Isoperla,Isoperla lugens,TRUE,Isoperla,Isoperla complex
+Insecta,Plecoptera,Perlodidae,Isoperla,Isoperla obscura,TRUE,Isoperla,Isoperla complex
+Insecta,Plecoptera,Perlodidae,Isoperla,Isoperla Orobica,TRUE,Isoperla,Isoperla complex
+Insecta,Plecoptera,Perlodidae,Isoperla,Isoperla oxylepis,TRUE,Isoperla,Isoperla complex
+Insecta,Plecoptera,Perlodidae,Isoperla,Isoperla rivulorum,TRUE,Isoperla,Isoperla complex
+Insecta,Plecoptera,Perlodidae,Perlodes,Perlodes dispar,FALSE,Perlodes,Perlodes dispar
+Insecta,Plecoptera,Perlodidae,Perlodes,Perlodes intricatus,FALSE,Perlodes,Perlodes intricatus
+Insecta,Plecoptera,Perlodidae,Perlodes,Perlodes jurassicus,FALSE,Perlodes,Perlodes jurassicus
+Insecta,Plecoptera,Perlodidae,Perlodes,Perlodes microcephalus,FALSE,Perlodes,Perlodes microcephalus
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,Brachyptera braueri,FALSE,Brachyptera,Brachyptera braueri
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,Brachyptera monilicornis,FALSE,Brachyptera,Brachyptera monilicornis
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,Brachyptera risi,FALSE,Brachyptera,Brachyptera risi
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,Brachyptera seticornis,FALSE,Brachyptera,Brachyptera seticornis
+Insecta,Plecoptera,Taeniopterygidae,Brachyptera,Brachyptera trifasciata,FALSE,Brachyptera,Brachyptera trifasciata
+Insecta,Plecoptera,Taeniopterygidae,Rhabdiopteryx,Rhabdiopteryx alpina,TRUE,Rhabdiopteryx,Rhabdiopteryx complex
+Insecta,Plecoptera,Taeniopterygidae,Rhabdiopteryx,Rhabdiopteryx harperi,TRUE,Rhabdiopteryx,Rhabdiopteryx complex
+Insecta,Plecoptera,Taeniopterygidae,Rhabdiopteryx,Rhabdiopteryx neglecta,TRUE,Rhabdiopteryx,Rhabdiopteryx complex
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,Taeniopteryx hubaulti,FALSE,Taeniopteryx,Taeniopteryx hubaulti
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,Taeniopteryx kuehtreiberi,FALSE,Taeniopteryx,Taeniopteryx kuehtreiberi
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,Taeniopteryx nebulosa,FALSE,Taeniopteryx,Taeniopteryx nebulosa
+Insecta,Plecoptera,Taeniopterygidae,Taeniopteryx,Taeniopteryx schoenemundi,FALSE,Taeniopteryx,Taeniopteryx schoenemundi
+Insecta,Trichoptera,Beraeidae,Beraea,Beraea maurus,FALSE,Beraea,Beraea maurus
+Insecta,Trichoptera,Beraeidae,Beraea,Beraea pullata,FALSE,Beraea,Beraea pullata
+Insecta,Trichoptera,Beraeidae,Beraeamyia,Beraeamyia squamosa,FALSE,Beraeamyia,Beraeamyia squamosa
+Insecta,Trichoptera,Beraeidae,Beraeodes,Beraeodes minutus,FALSE,Beraeodes,Beraeodes minutus
+Insecta,Trichoptera,Beraeidae,Ernodes,Ernodes articularis,TRUE,Ernodes,Ernodes complex
+Insecta,Trichoptera,Beraeidae,Ernodes,Ernodes vicinus,TRUE,Ernodes,Ernodes complex
+Insecta,Trichoptera,Brachycentridae,Brachycentrus,Brachycentrus maculatus,FALSE,Brachycentrus,Brachycentrus maculatus
+Insecta,Trichoptera,Brachycentridae,Brachycentrus,Brachycentrus montanus,FALSE,Brachycentrus,Brachycentrus montanus
+Insecta,Trichoptera,Brachycentridae,Brachycentrus,Brachycentrus subnubilus,FALSE,Brachycentrus,Brachycentrus subnubilus
+Insecta,Trichoptera,Brachycentridae,Micrasema,Micrasema longulum,FALSE,Micrasema,Micrasema longulum
+Insecta,Trichoptera,Brachycentridae,Micrasema,Micrasema minimum,FALSE,Micrasema,Micrasema minimum
+Insecta,Trichoptera,Brachycentridae,Micrasema,Micrasema morosum,FALSE,Micrasema,Micrasema morosum
+Insecta,Trichoptera,Brachycentridae,Micrasema,Micrasema setiferum,FALSE,Micrasema,Micrasema setiferum
+Insecta,Trichoptera,Ecnomidae,Ecnomus,Ecnomus tenellus,FALSE,Ecnomus,Ecnomus tenellus
+Insecta,Trichoptera,Glossosomatidae,Agapetus,Agapetus laniger,FALSE,Agapetus,Agapetus laniger
+Insecta,Trichoptera,Glossosomatidae,Agapetus,Agapetus nimbulus,FALSE,Agapetus,Agapetus nimbulus
+Insecta,Trichoptera,Glossosomatidae,Agapetus,Agapetus ochripes,FALSE,Agapetus,Agapetus ochripes
+Insecta,Trichoptera,Glossosomatidae,Agapetus,Agapetus fuscipes,FALSE,Agapetus,Agapetus fuscipes
+Insecta,Trichoptera,Glossosomatidae,Catagapetus,Catagapetus nigrans,FALSE,Catagapetus,Catagapetus nigrans
+Insecta,Trichoptera,Glossosomatidae,Glossosoma,Glossosoma bifidum,FALSE,Glossosoma,Glossosoma bifidum
+Insecta,Trichoptera,Glossosomatidae,Glossosoma,Glossosoma boltoni,TRUE,Glossosoma,Glossosoma complex
+Insecta,Trichoptera,Glossosomatidae,Glossosoma,Glossosoma conformis,TRUE,Glossosoma,Glossosoma complex
+Insecta,Trichoptera,Glossosomatidae,Synagapetus,Synagapetus dubitans,FALSE,Synagapetus,Synagapetus dubitans
+Insecta,Trichoptera,Glossosomatidae,Synagapetus,Synagapetus iridipennis,FALSE,Synagapetus,Synagapetus iridipennis
+Insecta,Trichoptera,Goeridae,Goera,Goera pilosa,FALSE,Goera,Goera pilosa
+Insecta,Trichoptera,Goeridae,Lithax,Lithax niger,FALSE,Lithax,Lithax niger
+Insecta,Trichoptera,Goeridae,Lithax,Lithax obscurus,FALSE,Lithax,Lithax obscurus
+Insecta,Trichoptera,Goeridae,Silo,Silo nigricornis,FALSE,Silo,Silo nigricornis
+Insecta,Trichoptera,Goeridae,Silo,Silo pallipes,FALSE,Silo,Silo pallipes
+Insecta,Trichoptera,Goeridae,Silo,Silo piceus,FALSE,Silo,Silo piceus
+Insecta,Trichoptera,Helicopsychidae,Helicopsyche,Helicopsyche sperata,FALSE,Helicopsyche,Helicopsyche sperata
+Insecta,Trichoptera,Hydropsychidae,Cheumatopsyche,Cheumatopsyche lepida,FALSE,Cheumatopsyche,Cheumatopsyche lepida
+Insecta,Trichoptera,Hydropsychidae,Diplectrona,Diplectrona atra,FALSE,Diplectrona,Diplectrona atra
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche angustipennis,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche bulbifera,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche contubernalis,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche dinarica,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche doehleri,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche exocellata,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche fulvipes,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche guttata,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche incognita,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche instabilis,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche modesta,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche ornatula,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche pellucidula,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche saxonica,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche tenuis,TRUE,Hydropsyche,Hydropsyche complex
+Insecta,Trichoptera,Hydropsychidae,Hydropsyche,Hydropsyche siltalai,FALSE,Hydropsyche,Hydropsyche siltalai
+Insecta,Trichoptera,Hydroptilidae,Agraylea,Agraylea multipunctata,FALSE,Agraylea,Agraylea multipunctata
+Insecta,Trichoptera,Hydroptilidae,Agraylea,Agraylea sexmaculata,FALSE,Agraylea,Agraylea sexmaculata
+Insecta,Trichoptera,Hydroptilidae,Allotrichia,Allotrichia pallicornis,FALSE,Allotrichia,Allotrichia pallicornis
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila angulata,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila brissaga,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila dampfi,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila forcipata,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila insubrica,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila ivisa,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila martini,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila occulta,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila pulchricornis,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila rheni,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila simulans,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila sparsa,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila tigurina,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila tineoides,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila valesiaca,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Hydroptila,Hydroptila vectis,TRUE,Hydroptila,Hydroptila complex
+Insecta,Trichoptera,Hydroptilidae,Ithytrichia,Ithytrichia clavata,TRUE,Ithytrichia,Ithytrichia complex
+Insecta,Trichoptera,Hydroptilidae,Ithytrichia,Ithytrichia lamellaris,TRUE,Ithytrichia,Ithytrichia complex
+Insecta,Trichoptera,Hydroptilidae,Microptila,Microptila minutissima,FALSE,Microptila,Microptila minutissima
+Insecta,Trichoptera,Hydroptilidae,Orthotrichia,Orthotrichia angustella,TRUE,Orthotrichia,Orthotrichia complex
+Insecta,Trichoptera,Hydroptilidae,Orthotrichia,Orthotrichia costalis,TRUE,Orthotrichia,Orthotrichia complex
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,Oxyethira falcata,TRUE,Oxyethira,Oxyethira complex
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,Oxyethira flavicornis,TRUE,Oxyethira,Oxyethira complex
+Insecta,Trichoptera,Hydroptilidae,Oxyethira,Oxyethira sagittifera,TRUE,Oxyethira,Oxyethira complex
+Insecta,Trichoptera,Hydroptilidae,Oxyethirasimplex,Oxyethirasimplex,TRUE,Oxyethira,Oxyethira complex
+Insecta,Trichoptera,Hydroptilidae,Stactobia,Stactobia eatoniella,TRUE,Stactobia,Stactobia complex
+Insecta,Trichoptera,Hydroptilidae,Stactobia,Stactobia furcata,TRUE,Stactobia,Stactobia complex
+Insecta,Trichoptera,Hydroptilidae,Stactobia,Stactobia moselyi,TRUE,Stactobia,Stactobia complex
+Insecta,Trichoptera,Hydroptilidae,Stactobiella,Stactobiella risi,FALSE,Stactobiella,Stactobiella risi
+Insecta,Trichoptera,Hydroptilidae,Tricholeiochiton,Tricholeiochiton fagesi,FALSE,Tricholeiochiton,Tricholeiochiton fagesi
+Insecta,Trichoptera,Lepidostomatidae,Crunoecia,Crunoecia irrorata,FALSE,Crunoecia,Crunoecia irrorata
+Insecta,Trichoptera,Lepidostomatidae,Lepidostoma,Lepidostoma basale,FALSE,Lepidostoma,Lepidostoma basale
+Insecta,Trichoptera,Lepidostomatidae,Lepidostoma,Lepidostoma hirtum,FALSE,Lepidostoma,Lepidostoma hirtum
+Insecta,Trichoptera,Leptoceridae,Adicella,Adicella filicornis,FALSE,Adicella,Adicella filicornis
+Insecta,Trichoptera,Leptoceridae,Adicella,Adicella reducta,FALSE,Adicella,Adicella reducta
+Insecta,Trichoptera,Leptoceridae,Athripsodes,Athripsodes albifrons,TRUE,Athripsodes,Athripsodes complex
+Insecta,Trichoptera,Leptoceridae,Athripsodes,Athripsodes aterrimus,TRUE,Athripsodes,Athripsodes complex
+Insecta,Trichoptera,Leptoceridae,Athripsodes,Athripsodes bilineatus,TRUE,Athripsodes,Athripsodes complex
+Insecta,Trichoptera,Leptoceridae,Athripsodes,Athripsodes cinereus,TRUE,Athripsodes,Athripsodes complex
+Insecta,Trichoptera,Leptoceridae,Athripsodes,Athripsodes leucophaeus,TRUE,Athripsodes,Athripsodes complex
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea albimacula,FALSE,Ceraclea,Ceraclea albimacula
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea annulicornis,FALSE,Ceraclea,Ceraclea annulicornis
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea aurea,FALSE,Ceraclea,Ceraclea aurea
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea dissimilis,FALSE,Ceraclea,Ceraclea dissimilis
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea fulva,FALSE,Ceraclea,Ceraclea fulva
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea nigronervosa,FALSE,Ceraclea,Ceraclea nigronervosa
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea riparia,FALSE,Ceraclea,Ceraclea riparia
+Insecta,Trichoptera,Leptoceridae,Ceraclea,Ceraclea senilis,FALSE,Ceraclea,Ceraclea senilis
+Insecta,Trichoptera,Leptoceridae,Erotesis,Erotesis baltica,FALSE,Erotesis,Erotesis baltica
+Insecta,Trichoptera,Leptoceridae,Leptocerus,Leptocerus interruptus,FALSE,Leptocerus,Leptocerus interruptus
+Insecta,Trichoptera,Leptoceridae,Leptocerus,Leptocerus lusitanicus,FALSE,Leptocerus,Leptocerus lusitanicus
+Insecta,Trichoptera,Leptoceridae,Leptocerus,Leptocerus tineiformis,FALSE,Leptocerus,Leptocerus tineiformis
+Insecta,Trichoptera,Leptoceridae,Mystacides,Mystacides azurea,FALSE,Mystacides,Mystacides azurea
+Insecta,Trichoptera,Leptoceridae,Mystacides,Mystacides longicornis,FALSE,Mystacides,Mystacides longicornis
+Insecta,Trichoptera,Leptoceridae,Mystacides,Mystacides nigra,FALSE,Mystacides,Mystacides nigra
+Insecta,Trichoptera,Leptoceridae,Oecetis,Oecetis furva,FALSE,Oecetis,Oecetis furva
+Insecta,Trichoptera,Leptoceridae,Oecetis,Oecetis lacustris,FALSE,Oecetis,Oecetis lacustris
+Insecta,Trichoptera,Leptoceridae,Oecetis,Oecetis notata,FALSE,Oecetis,Oecetis notata
+Insecta,Trichoptera,Leptoceridae,Oecetis,Oecetis ochracea,FALSE,Oecetis,Oecetis ochracea
+Insecta,Trichoptera,Leptoceridae,Oecetis,Oecetis testacea,FALSE,Oecetis,Oecetis testacea
+Insecta,Trichoptera,Leptoceridae,Setodes,Setodes argentipunctellus,FALSE,Setodes,Setodes argentipunctellus
+Insecta,Trichoptera,Leptoceridae,Setodes,Setodes punctatus,FALSE,Setodes,Setodes punctatus
+Insecta,Trichoptera,Leptoceridae,Setodes,Setodes viridis,FALSE,Setodes,Setodes viridis
+Insecta,Trichoptera,Leptoceridae,Triaenodes,Triaenodes bicolor,FALSE,Triaenodes,Triaenodes bicolor
+Insecta,Trichoptera,Limnephilidae,Allogamus,Allogamus anntennatus,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Allogamus,Allogamus hilaris,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Allogamus,Allogamus mendax,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Allogamus,Allogamus periphetes,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Chaetopteryx,Chaetopteryx gessneri,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Micropterna,Micropterna fissa,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Stenophylax,Stenophylax mitis,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Stenophylax,Stenophylax mucronatus,TRUE,Chaetopterygini & Stenophylacini,Chaetopterygini & Stenophylacini complex
+Insecta,Trichoptera,Limnephilidae,Allogamus,Allogamus auricollis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Allogamus,Allogamus uncatus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Annitella,Annitella obscurata,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Chaetopterygopsis,Chaetopterygopsis maclachlani,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Chaetopteryx,Chaetopteryx major,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Chaetopteryx,Chaetopteryx villosa,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Consorophylax,Consorophylax consors,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Halesus,Halesus rubricollis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Melampophylax,Melampophylax melampus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Pseudopsilopteryx,Pseudopsilopteryx zimmeri,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Auricollis
+Insecta,Trichoptera,Limnephilidae,Anabolia,Anabolia furcata,FALSE,Anabolia,Anabolia furcata
+Insecta,Trichoptera,Limnephilidae,Anabolia,Anabolia nervosa,TRUE,Anabolia,Anabolia complex
+Insecta,Trichoptera,Limnephilidae,Anabolia,Anabolia lombarda,TRUE,Anabolia,Anabolia complex
+Insecta,Trichoptera,Limnephilidae,Anisogamus,Anisogamus difformis,FALSE,Anisogamus,Anisogamus difformis
+Insecta,Trichoptera,Limnephilidae,Anomalopterygella,Anomalopterygella chauviniana,FALSE,Anomalopterygella,Anomalopterygella chauviniana
+Insecta,Trichoptera,Limnephilidae,Apatania,Apatania fimbriata,TRUE,Apatania,Apatania complex
+Insecta,Trichoptera,Limnephilidae,Apatania,Apatania helvetica/muliebris,TRUE,Apatania,Apatania complex
+Insecta,Trichoptera,Limnephilidae,Cryptothrix,Cryptothrix nebulicola,FALSE,Cryptothrix,Cryptothrix nebulicola
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus alpinus,FALSE,Drusus,Drusus alpinus
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus annulatus,FALSE,Drusus,Drusus annulatus
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus biguttatus,FALSE,Drusus,Drusus biguttatus
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus chapmani,FALSE,Drusus,Drusus chapmani
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus chrysotus,FALSE,Drusus,Drusus chrysotus
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus discolor,FALSE,Drusus,Drusus discolor
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus improvisus,FALSE,Drusus,Drusus improvisus
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus melanchaetes,FALSE,Drusus,Drusus melanchaetes
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus mixtus,FALSE,Drusus,Drusus mixtus
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus monticola,FALSE,Drusus,Drusus monticola
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus muelleri,FALSE,Drusus,Drusus muelleri
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus nigrescens,FALSE,Drusus,Drusus nigrescens
+Insecta,Trichoptera,Limnephilidae,Drusus,Drusus trifidus,FALSE,Drusus,Drusus trifidus
+Insecta,Trichoptera,Limnephilidae,Ecclisopteryx,Ecclisopteryx guttulata,FALSE,Ecclisopteryx,Ecclisopteryx guttulata
+Insecta,Trichoptera,Limnephilidae,Ecclisopteryx,Ecclisopteryx madida,FALSE,Ecclisopteryx,Ecclisopteryx madida
+Insecta,Trichoptera,Limnephilidae,Enoicyla,Enoicyla pusilla,FALSE,Enoicyla,Enoicyla pusilla
+Insecta,Trichoptera,Limnephilidae,Enoicyla,Enoicyla reichenbachi,FALSE,Enoicyla,Enoicyla reichenbachi
+Insecta,Trichoptera,Limnephilidae,Glyphotaelius,Glyphotaelius pellucidus,FALSE,Glyphotaelius,Glyphotaelius pellucidus
+Insecta,Trichoptera,Limnephilidae,Halesus,Halesus digitatus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Digitatus
+Insecta,Trichoptera,Limnephilidae,Halesus,Halesus radiatus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Digitatus
+Insecta,Trichoptera,Limnephilidae,Halesus,Halesus tesselatus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Digitatus
+Insecta,Trichoptera,Limnephilidae,Hydatophylax,Hydatophylax infumatus,FALSE,Hydatophylax,Hydatophylax infumatus
+Insecta,Trichoptera,Limnephilidae,Grammotaulius,Grammotaulius nigropunctatus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus affinis,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus algosus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus auricula,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus binotatus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus bipunctatus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus borealis,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus centralis,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus coenosus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus decipiens,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus elegans,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus extricatus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus flavicornis,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus flavospinosus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus germanus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus griseus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus helveticus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus hirsutus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus ignavus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus incisus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus italicus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus lunatus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus marmoratus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus nigriceps,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus politus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus rhombicus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus sericeus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus sparsus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus stigma,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus subcentralis,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus tauricus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Limnephilus,Limnephilus vittatus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Mesophylax,Mesophylax aspersus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Mesophylax,Mesophylax impunctatus,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Phacopteryx,Phacopteryx brevipennis (neu Anabolia br.),TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Rhadicoleptus,Rhadicoleptus alpestris,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Rhadicoleptus,Rhadicoleptus ucenorum,TRUE,Limnephilini,Limnephilini complex
+Insecta,Trichoptera,Limnephilidae,Melampophylax,Melampophylax mucoreus,FALSE,Melampophylax,Melampophylax mucoreus
+Insecta,Trichoptera,Limnephilidae,Metanoea,Metanoea flavipennis,FALSE,Metanoea,Metanoea flavipennis
+Insecta,Trichoptera,Limnephilidae,Metanoea,Metanoea rhaetica,FALSE,Metanoea,Metanoea rhaetica
+Insecta,Trichoptera,Limnephilidae,Nemotaulius,Nemotaulius punctatolineatus,FALSE,Nemotaulius,Nemotaulius punctatolineatus
+Insecta,Trichoptera,Limnephilidae,Acrophylax,Acrophylax zerberus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Cingulatus
+Insecta,Trichoptera,Limnephilidae,Potamophylax,Potamophylax cingulatus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Cingulatus
+Insecta,Trichoptera,Limnephilidae,Potamophylax,Potamophylax frauenfeldi,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Cingulatus
+Insecta,Trichoptera,Limnephilidae,Potamophylax,Potamophylax latipennis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Cingulatus
+Insecta,Trichoptera,Limnephilidae,Potamophylax,Potamophylax luctuosus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Cingulatus
+Insecta,Trichoptera,Limnephilidae,Potamophylax,Potamophylax nigricornis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Cingulatus
+Insecta,Trichoptera,Limnephilidae,Potamophylax,Potamophylax rotundipennis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Cingulatus
+Insecta,Trichoptera,Limnephilidae,Leptotaulius,Leptotaulius gracilis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Micropterna,Micropterna lateralis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Micropterna,Micropterna nycterobia,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Micropterna,Micropterna sequax,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Micropterna,Micropterna testacea,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Parachiona,Parachiona picicornis,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Platyphylax,Platyphylax frauenfeldi,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Stenophylax,Stenophylax permistus,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Limnephilidae,Stenophylax,Stenophylax vibex,TRUE,Chaetopterygini & Stenophylacini,Chaetopt. & Stenoph. complex group Permistus
+Insecta,Trichoptera,Molannidae,Molanna,Molanna albicans,FALSE,Molanna,Molanna albicans
+Insecta,Trichoptera,Molannidae,Molanna,Molanna angustata,FALSE,Molanna,Molanna angustata
+Insecta,Trichoptera,Odontoceridae,Odontocerum,Odontocerum albicorne,FALSE,Odontocerum,Odontocerum albicorne
+Insecta,Trichoptera,Philopotamidae,Chimarra,Chimarra marginata,FALSE,Chimarra,Chimarra marginata
+Insecta,Trichoptera,Philopotamidae,Philopotamus,Philopotamus ludificatus,FALSE,Philopotamus,Philopotamus ludificatus
+Insecta,Trichoptera,Philopotamidae,Philopotamus,Philopotamus montanus,FALSE,Philopotamus,Philopotamus montanus
+Insecta,Trichoptera,Philopotamidae,Philopotamus,Philopotamus variegatus,FALSE,Philopotamus,Philopotamus variegatus
+Insecta,Trichoptera,Philopotamidae,Wormaldia,Wormaldia copiosa,TRUE,Wormaldia,Wormaldia complex
+Insecta,Trichoptera,Philopotamidae,Wormaldia,Wormaldia mediana,TRUE,Wormaldia,Wormaldia complex
+Insecta,Trichoptera,Philopotamidae,Wormaldia,Wormaldia occipitalis,TRUE,Wormaldia,Wormaldia complex
+Insecta,Trichoptera,Philopotamidae,Wormaldia,Wormaldia pulla,TRUE,Wormaldia,Wormaldia complex
+Insecta,Trichoptera,Philopotamidae,Wormaldia,Wormaldia subnigra,TRUE,Wormaldia,Wormaldia complex
+Insecta,Trichoptera,Philopotamidae,Wormaldia,Wormaldia variegata,TRUE,Wormaldia,Wormaldia complex
+Insecta,Trichoptera,Phryganeidae,Agrypnia,Agrypnia obsoleta,TRUE,Agrypnia,Agrypnia complex
+Insecta,Trichoptera,Phryganeidae,Agrypnia,Agrypnia pagetana,TRUE,Agrypnia,Agrypnia complex
+Insecta,Trichoptera,Phryganeidae,Agrypnia,Agrypnia picta,TRUE,Agrypnia,Agrypnia complex
+Insecta,Trichoptera,Phryganeidae,Agrypnia,Agrypnia varia,TRUE,Agrypnia,Agrypnia complex
+Insecta,Trichoptera,Phryganeidae,Hagenella,Hagenella clathrata,FALSE,Hagenella,Hagenella clathrata
+Insecta,Trichoptera,Phryganeidae,Oligostomis,Oligostomis reticulata,FALSE,Oligostomis,Oligostomis reticulata
+Insecta,Trichoptera,Phryganeidae,Oligotricha,Oligotricha striata,FALSE,Oligotricha,Oligotricha striata
+Insecta,Trichoptera,Phryganeidae,Phryganea,Phryganea bipunctata,TRUE,Phryganea,Phryganea complex
+Insecta,Trichoptera,Phryganeidae,Phryganea,Phryganea grandis,TRUE,Phryganea,Phryganea complex
+Insecta,Trichoptera,Phryganeidae,Trichostegia,Trichostegia minor,FALSE,Trichostegia,Trichostegia minor
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,Cyrnus crenaticornis,TRUE,Cyrnus,Cyrnus complex
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,Cyrnus flavidus,TRUE,Cyrnus,Cyrnus complex
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,Cyrnus insolutus,TRUE,Cyrnus,Cyrnus complex
+Insecta,Trichoptera,Polycentropodidae,Cyrnus,Cyrnus trimaculatus,FALSE,Cyrnus,Cyrnus trimaculatus
+Insecta,Trichoptera,Polycentropodidae,Holocentropus,Holocentropus dubius,TRUE,Holocentropus,Holocentropus complex
+Insecta,Trichoptera,Polycentropodidae,Holocentropus,Holocentropus picicornis,TRUE,Holocentropus,Holocentropus complex
+Insecta,Trichoptera,Polycentropodidae,Holocentropus,Holocentropus stagnalis,TRUE,Holocentropus,Holocentropus complex
+Insecta,Trichoptera,Polycentropodidae,Neureclipsis,Neureclipsis bimaculata,FALSE,Neureclipsis,Neureclipsis bimaculata
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,Plectrocnemia appennina,TRUE,Plectrocnemia,Plectrocnemia complex
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,Plectrocnemia brevis,TRUE,Plectrocnemia,Plectrocnemia complex
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,Plectrocnemia conspersa,TRUE,Plectrocnemia,Plectrocnemia complex
+Insecta,Trichoptera,Polycentropodidae,Plectrocnemia,Plectrocnemia geniculata,TRUE,Plectrocnemia,Plectrocnemia complex
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,Polycentropus corniger,TRUE,Polycentropus,Polycentropus complex
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,Polycentropus excisus,TRUE,Polycentropus,Polycentropus complex
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,Polycentropus flavomaculatus,TRUE,Polycentropus,Polycentropus complex
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,Polycentropus irroratus,TRUE,Polycentropus,Polycentropus complex
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,Polycentropus kingi ,TRUE,Polycentropus,Polycentropus complex
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,Polycentropus morettii,TRUE,Polycentropus,Polycentropus complex
+Insecta,Trichoptera,Polycentropodidae,Polycentropus,Polycentropus schmidi,TRUE,Polycentropus,Polycentropus complex
+Insecta,Trichoptera,Psychomyidae,Lype,Lype phaeopa,FALSE,Lype,Lype phaeopa
+Insecta,Trichoptera,Psychomyidae,Lype,Lype reducta,FALSE,Lype,Lype reducta
+Insecta,Trichoptera,Psychomyidae,Psychomyia,Psychomyia fragilis,FALSE,Psychomyia,Psychomyia fragilis
+Insecta,Trichoptera,Psychomyidae,Psychomyia,Psychomyia pusilla,FALSE,Psychomyia,Psychomyia pusilla
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes antonioi,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes assimilis,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes dives,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes luscinia,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes maclachlani,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes maculicornis,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes pallidulus,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes rostocki,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes sylvia,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes unicolor,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes zelleri,TRUE,Tinodes,Tinodes complex
+Insecta,Trichoptera,Psychomyidae,Tinodes,Tinodes waeneri,FALSE,Tinodes,Tinodes waeneri
+Insecta,Trichoptera,Ptilocolepidae,Ptilocolepus,Ptilocolepus granulatus,FALSE,Ptilocolepus,Ptilocolepus granulatus
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila bonaparti,TRUE,Rhyacophila,Rhyacophila bonaparti complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila meyeri,TRUE,Rhyacophila,Rhyacophila bonaparti complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila aquitanica,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila glareosa,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila hirticornis,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila orobica,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila philopotamoides,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila pubescens,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila stigmatica,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila tristis,TRUE,Rhyacophila,Rhyacophila Hyporhyacophila complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila intermedia,FALSE,Rhyacophila,Rhyacophila intermedia
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila laevis,FALSE,Rhyacophila,Rhyacophila laevis
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila rectispina,FALSE,Rhyacophila,Rhyacophila rectispina
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila albardana,TRUE,Rhyacophila,Rhyacophila torrentium complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila occidentalis,TRUE,Rhyacophila,Rhyacophila torrentium complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila torrentium,TRUE,Rhyacophila,Rhyacophila torrentium complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila aurata,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila dorsalis,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila fasciata,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila obliterata,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila pascoei,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila praemorsa,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila simulatrix,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,Rhyacophila vulgaris,TRUE,Rhyacophila,Rhyacophila sensu str. complex
+Insecta,Trichoptera,Sericostomatidae,Notidobia,Notidobia ciliaris,FALSE,Notidobia,Notidobia ciliaris
+Insecta,Trichoptera,Sericostomatidae,Oecismus,Oecismus monedula,FALSE,Oecismus,Oecismus monedula
+Insecta,Trichoptera,Sericostomatidae,Sericostoma,Sericostoma personatum,TRUE,Sericostoma,Sericostoma complex
+Insecta,Trichoptera,Sericostomatidae,Sericostoma,Sericostoma flavicorne,TRUE,Sericostoma,Sericostoma complex
+Insecta,Trichoptera,Sericostomatidae,Sericostoma,Sericostoma galeatum,TRUE,Sericostoma,Sericostoma complex
