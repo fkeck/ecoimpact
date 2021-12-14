@@ -234,6 +234,54 @@ cor.test(mat_test$Leese, mat_test$KN)
 
 # SI
 
+# Rarefaction curves Leese
+edna_leese_EPT %>% 
+  left_join(sites_meta) %>% 
+  group_by(site_community, species_coal) %>% 
+  summarise(count = sum(count)) %>% 
+  spread_cdm(site_community, species_coal, count, fill.missing = 0) -> zzz
+
+ggg <- vegan::rarecurve(zzz) %>% 
+  tidy_rarecurve(rownames(zzz))
+
+si_1 <- ggplot(ggg) +
+  geom_line(aes(samp_size, species, group = site, color = site)) +
+  xlab("Sample size (reads)") +
+  ylab("Species")
+
+# Rarefaction curves Leray
+edna_leray_EPT %>% 
+  left_join(sites_meta) %>% 
+  group_by(site_community, species_coal) %>% 
+  summarise(count = sum(count)) %>% 
+  spread_cdm(site_community, species_coal, count, fill.missing = 0) -> zzz
+
+ggg <- vegan::rarecurve(zzz) %>% 
+  tidy_rarecurve(rownames(zzz))
+
+si_2 <- ggplot(ggg) +
+  geom_line(aes(samp_size, species, group = site, color = site)) +
+  xlab("Sample size (reads)") +
+  ylab("Species")
+
+
+# Rarefaction curves Kicknet
+kicknet_EPT %>% 
+  left_join(sites_meta) %>% 
+  group_by(site_community, CH_list_species) %>% 
+  summarise(count = sum(nr_ind)) %>% 
+  spread_cdm(site_community, CH_list_species, count, fill.missing = 0) -> zzz
+
+ggg <- vegan::rarecurve(zzz) %>% 
+  tidy_rarecurve(rownames(zzz))
+
+si_3 <- ggplot(ggg) +
+  geom_line(aes(samp_size, species, group = site, color = site)) +
+  xlab("Sample size (individuals)") +
+  ylab("Species")
+
+
+
 edna_both_EPT_richness <- edna_leese_EPT %>% 
   bind_rows(edna_leray_EPT) %>% 
   group_by(site_code, species_coal) %>% 
@@ -243,7 +291,7 @@ edna_both_EPT_richness <- edna_leese_EPT %>%
   enframe("site_code", "Merged eDNA")
 
 
-kicknet_EPT_richness %>% 
+si_4 <- kicknet_EPT_richness %>% 
   left_join(edna_both_EPT_richness, by = "site_code") %>% 
   left_join(sites_meta, by = "site_code") %>% 
   filter(site_location == "Upstream") %>% 
@@ -264,49 +312,6 @@ kicknet_EPT_richness %>%
   theme_light()
 
 
-# Rarefaction curves Leese
-edna_leese_EPT %>% 
-  left_join(sites_meta) %>% 
-  group_by(site_community, species_coal) %>% 
-  summarise(count = sum(count)) %>% 
-  spread_cdm(site_community, species_coal, count, fill.missing = 0) -> zzz
-
-ggg <- vegan::rarecurve(zzz) %>% 
-  tidy_rarecurve(rownames(zzz))
-
-ggplot(ggg) +
-  geom_line(aes(samp_size, species, group = site, color = site)) +
-  xlab("Sample size (reads)") +
-  ylab("Species")
-
-# Rarefaction curves Leray
-edna_leray_EPT %>% 
-  left_join(sites_meta) %>% 
-  group_by(site_community, species_coal) %>% 
-  summarise(count = sum(count)) %>% 
-  spread_cdm(site_community, species_coal, count, fill.missing = 0) -> zzz
-
-ggg <- vegan::rarecurve(zzz) %>% 
-  tidy_rarecurve(rownames(zzz))
-
-ggplot(ggg) +
-  geom_line(aes(samp_size, species, group = site, color = site)) +
-  xlab("Sample size (reads)") +
-  ylab("Species")
-
-
-# Rarefaction curves Kicknet
-kicknet_EPT %>% 
-  left_join(sites_meta) %>% 
-  group_by(site_community, CH_list_species) %>% 
-  summarise(count = sum(nr_ind)) %>% 
-  spread_cdm(site_community, CH_list_species, count, fill.missing = 0) -> zzz
-
-ggg <- vegan::rarecurve(zzz) %>% 
-  tidy_rarecurve(rownames(zzz))
-
-ggplot(ggg) +
-  geom_line(aes(samp_size, species, group = site, color = site)) +
-  xlab("Sample size (individuals)") +
-  ylab("Species")
-
+# Compile Supplementary Material
+rmarkdown::render("Rmd/supplementary_info.Rmd", output_dir = "results", output_file = "supplementary_info.pdf")
+browseURL("results/supplementary_info.pdf")
